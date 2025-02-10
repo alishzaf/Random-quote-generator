@@ -4,7 +4,7 @@
 //    console.log(data.content); // Quote text
 //    console.log(data.author);  // Quote author
 //   });   
-const api_url = 'http://api.quotable.io/random';
+const api_url = 'https://api.quotable.io/random';
 const  quote = document.getElementById('quote');
 const author = document.getElementById('author');
 const btn = document.querySelector('button');
